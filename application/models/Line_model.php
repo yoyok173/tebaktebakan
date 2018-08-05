@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Line_model extends CI_Model {
 
-	private $accessToken = "fQHj+Gf4AW8DO6MtQTP5CRpCUHIPJ0orn4EaZlIbdAMbHVTD8fiPA9YoYcFsVgfNAt9T/GIpiVOpNJeeTfUKiG/jnAD+JhsSV8fiaB1AizQWE+m492/TpdCdz1j498tc+QBua3U5XM6vKWL6mq/PhwdB04t89/1O/w1cDnyilFU=";
+	private $accessToken = "3Qkr3SNlqPpzhZ0FYrPZupD/TcYAxK0+Kdh7J0u3JzH2qQkzZVGVjivLQ32olTcPIWOPg/jSaRvyekXU3gsLRs5BLHgCZEw1sHcTZoEy8yMOnTuXGvqh+27/RHYrQHVjTibPpU/YsK+qDXR+mrgEEQdB04t89/1O/w1cDnyilFU=";
 
 	function __construct()
 	{
